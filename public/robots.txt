@@ -1,0 +1,3 @@
+# There are no robot's HackGodybj
+User-agent: *
+Disallow:
